@@ -1,0 +1,445 @@
+[16-Oct-2022 20:13:47 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[16-Oct-2022 20:13:47 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[16-Nov-2022 05:21:19 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[16-Nov-2022 05:21:19 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[16-Nov-2022 05:21:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[16-Nov-2022 05:21:25 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[16-Nov-2022 05:21:26 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[16-Nov-2022 05:21:26 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[16-Nov-2022 05:21:33 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[16-Nov-2022 05:21:33 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[16-Nov-2022 05:21:34 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 20
+[16-Nov-2022 05:21:34 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 228
+[16-Nov-2022 05:21:34 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 331
+[16-Nov-2022 05:21:42 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 7
+[16-Nov-2022 05:21:42 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 216
+[16-Nov-2022 05:21:42 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 294
+[16-Nov-2022 05:21:45 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 7
+[16-Nov-2022 05:21:45 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 216
+[16-Nov-2022 05:21:45 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 294
+[16-Nov-2022 05:21:47 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 20
+[16-Nov-2022 05:21:47 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 228
+[16-Nov-2022 05:21:47 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 331
+[16-Nov-2022 05:21:53 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[16-Nov-2022 05:21:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[16-Nov-2022 05:22:00 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[16-Nov-2022 05:22:00 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[16-Nov-2022 05:22:02 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[16-Nov-2022 05:22:02 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[16-Nov-2022 05:22:20 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[16-Nov-2022 05:22:20 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[16-Nov-2022 05:22:30 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[16-Nov-2022 05:22:30 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[16-Nov-2022 05:22:31 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[16-Nov-2022 05:22:36 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[16-Nov-2022 05:22:36 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 03:57:48 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 03:57:48 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 03:57:55 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 03:57:55 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 03:57:57 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[17-Nov-2022 03:57:57 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[17-Nov-2022 03:57:59 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 03:57:59 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 03:58:03 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 284
+[17-Nov-2022 03:58:03 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 292
+[17-Nov-2022 03:58:36 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 03:58:36 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 03:59:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 284
+[17-Nov-2022 03:59:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 292
+[17-Nov-2022 03:59:01 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 03:59:01 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 03:59:23 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 03:59:23 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 03:59:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 284
+[17-Nov-2022 03:59:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 292
+[17-Nov-2022 03:59:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 284
+[17-Nov-2022 03:59:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 292
+[17-Nov-2022 03:59:59 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 284
+[17-Nov-2022 03:59:59 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/reg_shop.php on line 292
+[17-Nov-2022 04:00:05 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 04:00:05 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 04:00:12 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 04:00:12 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 04:00:13 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 209
+[17-Nov-2022 04:00:13 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 260
+[17-Nov-2022 04:00:17 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 7
+[17-Nov-2022 04:00:17 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 294
+[17-Nov-2022 04:00:17 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 302
+[17-Nov-2022 04:00:22 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 6
+[17-Nov-2022 04:00:22 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 218
+[17-Nov-2022 04:00:22 UTC] PHP Warning:  Undefined variable $catid in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 290
+[17-Nov-2022 04:00:22 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 351
+[17-Nov-2022 04:00:24 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 7
+[17-Nov-2022 04:00:24 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 294
+[17-Nov-2022 04:00:24 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 302
+[17-Nov-2022 04:00:45 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 7
+[17-Nov-2022 04:00:45 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 294
+[17-Nov-2022 04:00:45 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_cat.php on line 302
+[17-Nov-2022 04:00:50 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 6
+[17-Nov-2022 04:00:50 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 218
+[17-Nov-2022 04:00:50 UTC] PHP Warning:  Undefined variable $catid in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 290
+[17-Nov-2022 04:00:50 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 351
+[17-Nov-2022 04:00:54 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_product.php on line 284
+[17-Nov-2022 04:00:54 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_product.php on line 292
+[17-Nov-2022 04:01:21 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_product.php on line 284
+[17-Nov-2022 04:01:21 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/add_product.php on line 292
+[17-Nov-2022 04:01:31 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 6
+[17-Nov-2022 04:01:31 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 218
+[17-Nov-2022 04:01:31 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 357
+[17-Nov-2022 04:01:35 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 6
+[17-Nov-2022 04:01:35 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 218
+[17-Nov-2022 04:01:35 UTC] PHP Warning:  Undefined variable $catid in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 290
+[17-Nov-2022 04:01:35 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 351
+[17-Nov-2022 04:01:40 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:01:40 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:01:44 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 284
+[17-Nov-2022 04:01:44 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 292
+[17-Nov-2022 04:01:44 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:01:44 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:01:44 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:02:17 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 284
+[17-Nov-2022 04:02:17 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 292
+[17-Nov-2022 04:02:17 UTC] PHP Warning:  Undefined array key "file" in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 457
+[17-Nov-2022 04:02:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 457
+[17-Nov-2022 04:02:18 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:02:18 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:02:18 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/register.php on line 345
+[17-Nov-2022 04:02:31 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:02:31 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:02:37 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:02:37 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:02:38 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 04:02:38 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 04:02:41 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 04:02:41 UTC] PHP Warning:  Undefined variable $md in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 246
+[17-Nov-2022 04:02:41 UTC] PHP Fatal error:  Uncaught TypeError: array_chunk(): Argument #1 ($array) must be of type array, null given in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php:246
+Stack trace:
+#0 /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php(246): array_chunk(NULL, 3)
+#1 {main}
+  thrown in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 246
+[17-Nov-2022 04:02:47 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 04:02:47 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 04:02:48 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 04:02:48 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:02:51 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:02:56 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 04:02:56 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 04:02:57 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 04:02:57 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 04:02:59 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 04:02:59 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:03:01 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:06 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:06 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 04:03:06 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:06 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:03:08 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:03:13 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:19 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:19 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:03:19 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:03:19 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 04:03:25 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 04:03:30 UTC] PHP Warning:  Undefined array key "purchase_id" in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 30
+[17-Nov-2022 04:03:30 UTC] PHP Warning:  Undefined variable $rs in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 144
+[17-Nov-2022 04:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 144
+[17-Nov-2022 04:03:30 UTC] PHP Warning:  Undefined array key "orderid" in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 188
+[17-Nov-2022 04:03:37 UTC] PHP Warning:  Undefined array key "purchase_id" in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 30
+[17-Nov-2022 04:03:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php:46
+Stack trace:
+#0 /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php(46): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home2/iotcl6k4/public_html/shopping_bootstrap/rating.php on line 46
+[17-Nov-2022 04:03:52 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 04:03:52 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 04:03:52 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 04:03:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 04:03:56 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 04:03:56 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 04:03:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 330
+[17-Nov-2022 04:03:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 330
+[17-Nov-2022 04:03:56 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 04:04:09 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 04:04:09 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 04:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 330
+[17-Nov-2022 04:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 330
+[17-Nov-2022 04:04:09 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 04:04:20 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 04:04:20 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 04:04:20 UTC] PHP Warning:  Undefined variable $camt in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 439
+[17-Nov-2022 04:04:20 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 04:04:21 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 04:04:21 UTC] PHP Warning:  Undefined variable $pmode in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 296
+[17-Nov-2022 04:04:21 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 04:04:24 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 04:04:24 UTC] PHP Warning:  Undefined variable $pmode in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 296
+[17-Nov-2022 04:04:24 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 04:04:26 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 04:04:26 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 04:04:26 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 04:04:28 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 04:04:28 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 04:04:28 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 04:04:31 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 04:04:31 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 04:04:31 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 04:04:39 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 04:04:43 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:04:43 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:04:46 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 04:04:46 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 04:04:53 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 04:04:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 04:04:54 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 209
+[17-Nov-2022 04:04:54 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 260
+[17-Nov-2022 04:04:56 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 6
+[17-Nov-2022 04:04:56 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 218
+[17-Nov-2022 04:04:56 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 357
+[17-Nov-2022 04:05:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 6
+[17-Nov-2022 04:05:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 218
+[17-Nov-2022 04:05:01 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_purchase.php on line 357
+[17-Nov-2022 04:05:15 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:05:15 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:05:33 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 04:05:33 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 04:05:42 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:05:42 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:05:46 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[17-Nov-2022 04:05:46 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[17-Nov-2022 04:05:53 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 222
+[17-Nov-2022 04:05:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login2.php on line 297
+[17-Nov-2022 04:05:53 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 20
+[17-Nov-2022 04:05:53 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 228
+[17-Nov-2022 04:05:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_cus.php on line 331
+[17-Nov-2022 04:06:02 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 7
+[17-Nov-2022 04:06:02 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 216
+[17-Nov-2022 04:06:02 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_shop.php on line 294
+[17-Nov-2022 04:06:05 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:06:05 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 04:56:11 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 04:56:11 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 05:03:05 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 05:03:05 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 05:03:15 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 222
+[17-Nov-2022 05:03:15 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/login.php on line 297
+[17-Nov-2022 05:03:15 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 209
+[17-Nov-2022 05:03:15 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/admin.php on line 260
+[17-Nov-2022 05:03:18 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 6
+[17-Nov-2022 05:03:18 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 218
+[17-Nov-2022 05:03:18 UTC] PHP Warning:  Undefined variable $catid in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 290
+[17-Nov-2022 05:03:18 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/view_product.php on line 351
+[17-Nov-2022 05:03:29 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 05:03:29 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 05:03:39 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 05:03:39 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
+[17-Nov-2022 05:03:39 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 05:03:39 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 05:03:47 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 05:03:47 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:03:49 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:03:56 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:03:56 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:03:56 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:56 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:03:58 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:04:00 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:04:03 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:04:03 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:04:03 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:04:10 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:04:10 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:04:10 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:04:11 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 05:04:11 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 05:04:14 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 05:04:14 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 05:04:16 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 05:04:16 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 05:04:16 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:04:28 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:04:35 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:04:35 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:04:35 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:04:40 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 05:04:40 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 05:04:44 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 05:04:44 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:04:49 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:53 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:04:55 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:04:59 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:04:59 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:04:59 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:04:59 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:05:01 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:05:02 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:05:07 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:05:07 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:05:07 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:05:20 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:05:20 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:05:20 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:05:21 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 05:05:21 UTC] PHP Warning:  Undefined variable $pmode in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 296
+[17-Nov-2022 05:05:21 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 05:05:37 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 251
+[17-Nov-2022 05:05:37 UTC] PHP Warning:  Undefined variable $pmode in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 296
+[17-Nov-2022 05:05:37 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/payment.php on line 344
+[17-Nov-2022 05:05:39 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 05:05:39 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 05:05:39 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 05:05:47 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 05:05:47 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 05:05:47 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:05:49 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:05:51 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:05:52 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 05:05:52 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 05:06:11 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 210
+[17-Nov-2022 05:06:11 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_cat.php on line 300
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 8
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 219
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined variable $data in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 260
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined variable $img3 in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 370
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined variable $act in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 406
+[17-Nov-2022 05:06:13 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user.php on line 424
+[17-Nov-2022 05:06:43 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 8
+[17-Nov-2022 05:06:43 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 213
+[17-Nov-2022 05:06:43 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/purchase.php on line 314
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $rdate in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 8
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 213
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 263
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $shop in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 271
+[17-Nov-2022 05:06:45 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/cart.php on line 453
+[17-Nov-2022 05:06:50 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 209
+[17-Nov-2022 05:06:50 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/user_shop.php on line 331
+[17-Nov-2022 05:06:55 UTC] PHP Warning:  Undefined array key "act" in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 223
+[17-Nov-2022 05:06:55 UTC] PHP Warning:  Undefined variable $msg in /home2/iotcl6k4/public_html/shopping_bootstrap/index.php on line 309
